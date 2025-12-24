@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **zamirmanihar@gmail.com**
 
-- 📄 Know about my experiences [resume](https://cdn.filestackcontent.com/VcE3DqYS8X34lFLgkJpw)
+- 📄 Know about my experiences in my [resume](https://dev-zamir-resume.tiiny.site)
 
 
 <h3 align="left">Connect with me:</h3>
