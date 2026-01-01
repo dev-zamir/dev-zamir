@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Zamir Manihar
 
-**Senior Full-Stack Software Engineer**  
-Ruby on Rails · React · SaaS · Scalable Systems · Performance Engineering
+### Senior Full-Stack Software Engineer ###
+    Ruby on Rails · React · Python · SaaS · Scalable Systems · Performance Engineering
 
 I’m a senior software engineer with **6+ years of experience** building and scaling **production-grade SaaS platforms and global e-commerce systems** used by thousands of users worldwide. I specialize in **Ruby on Rails** and **React**, with a strong focus on **clean architecture, performance optimization, and business-driven engineering**.
 
@@ -107,4 +107,4 @@ I’m open to **remote senior/lead Ruby on Rails roles**, product-based teams, a
 
 ---
 
-⭐️ If you find my work useful, feel free to explore my repositories or reach out.
+⭐️ If you find my work useful, feel free to explore [My resume](https://dev-zamir-resume.tiiny.site) or [reach out](https://linkedin.com/in/zamirmanihar).
