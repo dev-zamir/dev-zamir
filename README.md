@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Zamir Manihar
 
 ### Senior Full-Stack Software Engineer ###
+#### [heyzamir.in](https://heyzamir.in) ####
+
     Ruby on Rails · React · Python · SaaS · Scalable Systems · Performance Engineering
 
 I’m a senior software engineer with **6+ years of experience** building and scaling **production-grade SaaS platforms and global e-commerce systems** used by thousands of users worldwide. I specialize in **Ruby on Rails** and **React**, with a strong focus on **clean architecture, performance optimization, and business-driven engineering**.
