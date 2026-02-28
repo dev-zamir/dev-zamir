@@ -102,11 +102,11 @@ Enabled enterprises to automate sustainability reporting and reduce manual effor
 ## 📬 Let’s Connect
 
 - 💼 LinkedIn: [linkedin.com/in/zamirmanihar](https://linkedin.com/in/zamirmanihar)
-- 📧 Email:    [zamirmanihar@gmail.com](mailto:zamirmanihar@gmail.com)
-- 📋 Resume:   [My resume](https://dev-zamir-resume.tiiny.site)
+- 📧 Email: &nbsp; &nbsp; &nbsp; [zamirmanihar@gmail.com](mailto:zamirmanihar@gmail.com)
+- 📋 Resume: &nbsp;[My resume](https://heyzamir.in/docs/resume.pdf)
 
 I’m open to **remote senior/lead Ruby on Rails roles**, product-based teams, and technically challenging problems.
 
 ---
 
-⭐️ If you find my work useful, feel free to explore [My resume](https://dev-zamir-resume.tiiny.site) or [reach out](https://linkedin.com/in/zamirmanihar).
+⭐️ If you find my work useful, feel free to explore [My resume](https://heyzamir.in/docs/resume.pdf) or [reach out](https://linkedin.com/in/zamirmanihar).
