@@ -23,7 +23,7 @@ I’m a senior software engineer with **6+ years of experience** building and sc
 ## 🧠 Technical Expertise
 
 **Languages & Frameworks**  
-Ruby, Ruby on Rails (v5–v7), React.js, JavaScript (ES6+), HTML5, CSS3
+Python, FastAPI, Ruby, Ruby on Rails (v5–v7), React.js, JavaScript (ES6+), HTML5, CSS3
 
 **Databases & Infrastructure**  
 PostgreSQL, MySQL, Redis, Elasticsearch, Sidekiq
